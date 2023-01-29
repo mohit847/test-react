@@ -26,12 +26,13 @@ export function Products(props) {
       </div>
       <div className="coupon">
           <div className="leftCoupon">
-            <span className="top">{props.ctag}</span><br/>
+            <span className="top">{props.ctag}</span>
             <span className="bottom">{props.coupon}</span>
           </div>
           <div className="rightCoupon">
-          <span className="top">20%</span><br/>
-          <span>OFF</span>
+          <span className="top1">20%</span>
+             
+          <span className="bottom1">OFF</span>
           </div>
         </div>
     </div>

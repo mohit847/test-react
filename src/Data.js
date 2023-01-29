@@ -16,7 +16,7 @@ const productData = [
       id: 2,
       name: "Long sleeve Denim jacket",
       image:
-        "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000011902396-Blue-Blue-1000011902396_01-2100.jpg",
+        "https://i.pinimg.com/originals/96/55/a5/9655a5add778a9d927989af7cb7d310c.jpg",
       productType: "openBackHeadphones",
       price: 169,
       rating: 5,
